@@ -62,9 +62,8 @@ python inventory_forecasting_model.py
 
 ## Author
 
-**Abednego Ndegwa**
-Post-Grad Diploma in Artificial Intelligence, Durham College | BSc Civil Engineering | Warehouse & Logistics Professional
-[GitHub Profile](https://github.com/abedy101)
+**Abed**
+
 
 ---
 
