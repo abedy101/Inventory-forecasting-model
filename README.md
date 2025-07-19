@@ -62,8 +62,9 @@ python inventory_forecasting_model.py
 
 ## Author
 
-**Abed**
-
+**Abednego Ndegwa**
+Warehouse & Logistics Professional
+[GitHub Profile](https://github.com/abedy101)
 
 ---
 
